@@ -1,5 +1,5 @@
 # Leetcode
-Hey Coders, Its About Leetcode Statergy.
+Hey Coders,Its About Leetcode Statergy.
 
 # Leetcode Strategy
 
